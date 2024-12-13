@@ -18,8 +18,11 @@ Firstly, we combined all the data we used into a single folder called `dataset`.
 ## Result
 
 - Training Result
+  
   ![Training Result](images/training_result.png)
+  
 - Testing Result
+  
   ![Testing Result](images/test_result.png)
 
 ## Prerequisites
