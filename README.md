@@ -59,27 +59,6 @@ Before you begin, make sure you have the following installed and set up:
    ```
    Ensure the output displays a valid TensorFlow version.
 
-## Running the Model
-
-1. Prepare the input data or ensure the required input files are in place.
-
-2. Run the model script:
-   ```bash
-   python model_script.py
-   ```
-   Replace `model_script.py` with the actual filename of your Python script.
-
-3. (Optional) Export the model to TensorFlow Lite:
-   If your script supports exporting to TFLite, ensure the export command or script is included in your workflow.
-   ```bash
-   python export_to_tflite.py
-   ```
-
-4. Test the TensorFlow Lite model:
-   If applicable, use the TFLite interpreter to test the model:
-   ```bash
-   python tflite_test_script.py
-   ```
 
 ### Notes:
 - Ensure your system has sufficient GPU or CPU resources to run TensorFlow efficiently.
