@@ -51,8 +51,8 @@ Before you begin, make sure you have the following installed and set up:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Sastra-Bali-C242-PS465/sastrabali-ml.git
+   cd Sastra-Bali-C242-PS465/sastrabali-ml
    ```
 
 2. Install the required dependencies:
